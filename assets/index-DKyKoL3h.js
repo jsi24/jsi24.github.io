@@ -1,1 +1,1 @@
-import r from"./projects-D5XWR5hr.js";import{C as e,D as o}from"./index-DSd6WG-N.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";const m={__name:"index",setup(t){return(c,a)=>(e(),o(r))}};export{m as default};
+import r from"./projects-D5XWR5hr.js";import{C as e,D as o}from"./index-DSd6WG-N.js";import"./plugin-vue_export-helper-DlAUqK2U.js";const m={__name:"index",setup(t){return(c,a)=>(e(),o(r))}};export{m as default};
